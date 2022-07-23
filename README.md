@@ -1,2 +1,2 @@
-# anexerciseinmental-public
+# anexerciseinmental
 anexerciseinmental.com
